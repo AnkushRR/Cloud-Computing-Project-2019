@@ -15,12 +15,14 @@ Description: This project is an extention to IIITG-Connect (Complaint redressal 
 	implemented in the web application.
 
 How this works:
-	1. Authenticate with email id and password
-	2. Click on "list complaints" button.
-	2. If you are authorised as a Faculty in database of "IIITG-Connect", you will
-	   be able to list all the complaints registered by students.
-	3. If you are authorised as a student in database of "IIITG-Connect", you will
-	   be able to list only the complaints registered by you.
+ - Authenticate with email id and password
+ - Click on "list complaints" button.
+ - If you are authorised as a Faculty in database of "IIITG-Connect", you will
+   be able to list all the complaints registered by students.
+ - If you are authorised as a student in database of "IIITG-Connect", you will
+   be able to list only the complaints registered by you.
+
+
 
  - If you sign up instead of signing in, a verification link will be sent to you,
    verify your email and then you will be assigned a the role of student by default.
